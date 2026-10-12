@@ -96,7 +96,7 @@ This structure separates transactional data from descriptive attributes and supp
 
 ### Data Model Diagram
 
-![Data Model](screenshots/data-model.png)
+![Data Model](screenshots/data-model.png.png)
 
 ## Dashboard Pages
 
@@ -118,7 +118,7 @@ Key metrics and analyses:
 
 The page includes interactive filters for customer segment, region, and year to explore business performance across different dimensions.
 
-![Sales Overview & Performance](screenshots/sales-overview.png)
+![Sales Overview & Performance](screenshots/sales-overview.png.png)
 
 ### 2. Product & Customer Analysis
 
@@ -138,7 +138,7 @@ Key metrics and analyses:
 
 This page helps identify top-performing products, profitable sub-categories, valuable customers, and shipping lead-time patterns.
 
-![Product & Customer Analysis](screenshots/product-customer-analysis.png)
+![Product & Customer Analysis](screenshots/product-customer-analysis.png.png)
 
 ## DAX Measures
 
